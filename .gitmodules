@@ -1,0 +1,3 @@
+[submodule "source/patched-yasm"]
+	path = source/patched-yasm
+	url = https://chromium.googlesource.com/chromium/deps/yasm/patched-yasm.git
